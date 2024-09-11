@@ -1,13 +1,13 @@
 # Keywords
 
 1.**COMPUTING**
-* CPU(CENTRAL PROCESSING UNIT)->The CPU, or Central Processing Unit, is often referred to as the "brain" of a computer. It's the primary component responsible for executing instructions from programs and managing the operations of the computer.
+* CPU(CENTRAL PROCESSING UNIT)->The CPU, or Central Processing Unit, is often referred to as the "brain" of a computer. used for interpretation, processes and executions.
+
+* GPU(GRAPHIC PROCESSING UNIT)->The GPU, or Graphics Processing Unit, is a specialized processor designed to accelerate the rendering of images and video  performs mathematical calculations at high speed.
   
-* GPU(GRAPHIC PROCESSING UNIT)->The GPU, or Graphics Processing Unit, is a specialized processor designed to accelerate the rendering of images and video. It’s optimized for handling the complex calculations required for graphics rendering, making it crucial for visual output in computers, gaming consoles, and mobile devices.
-  
-* DPU(DATA PROCESSING UNIT)->A DPU, or Data Processing Unit, is a specialized processor designed to handle data-centric tasks efficiently. It focuses on managing and processing large volumes of data, often in the context of network, storage, and data center operations. 
-  
-* TPU(TENSOR PROCESSING UNIT)->A TPU, or Tensor Processing Unit, is a type of specialized hardware designed by Google specifically for accelerating machine learning and artificial intelligence (AI) workloads. TPUs are optimized for processing tensors, which are multidimensional arrays used extensively in machine learning models.
+* DPU(DATA PROCESSING UNIT)->A DPU, or Data Processing Unit, is a specialized processor designed to handle data-centric tasks efficiently.  perform as a helper for CPU by taking over it's networking and communication workloads.
+
+* TPU(TENSOR PROCESSING UNIT)->A TPU, or Tensor Processing Unit, is a type of specialized hardware designed by Google specifically for accelerating machine learning and artificial intelligence (AI) workloads.  it is a Google's custom-developed application-specific integrated circuits(ASICs) used to accelerate machine learning workloads.
 
 2.**operating system**
 
@@ -16,15 +16,20 @@ It's essentially the backbone of a computer system, enabling users to interact w
 
 ![image alt](https://github.com/shub1504/Keywords/blob/54baf75a6351d4282daaa21013b2efa2bc4eb9b6/os.jpeg)
 
-* **CISC**->CISC, or Complex Instruction Set Computer, is a type of computer architecture that aims to provide a rich set of instructions for executing a wide variety of tasks directly in hardware.
+* **CISC**->CISC, or Complex Instruction Set Computer, is a computer architecture in which single instructions can execute several low level operations or are capable of multi step operations or addressing modes within single instructions. 
 
-* **RISC**->RISC, or Reduced Instruction Set Computer, is a type of computer architecture that focuses on a simplified set of instructions compared to CISC (Complex Instruction Set Computer) architectures. The RISC approach emphasizes efficiency and speed by using a smaller, more streamlined set of instructions.
+* **RISC**->RISC, or Reduced Instruction Set Computer, is a type of microprocessor architecture that utilizes a small,highly optimised set of instructions rather than highly-specialized set of instructions typically found in architecture.
 
-* **RISC-V**-> is an open standard instruction set architecture (ISA) based on the principles of Reduced Instruction Set Computer (RISC) design.
+* **RISC-V**->  it is a open source instruction set architecture used to develop custom processors for a variety of applications 
 
-* **KERNAL**->The term "kernel" refers to the core component of an operating system (OS) that manages system resources and enables communication between hardware and software.
+* **KERNAL**->it is a computer program at the core of a computer's operation system and generally has complete control over everything in the system.
+It is also responsible for preventing and mitigating conflicts between different processes. 
+Example : Linux 
 
-* **LINUX**->Linux is a widely-used open-source operating system kernel that serves as the foundation for many operating systems, commonly referred to as Linux distributions or distros.
+* **LINUX**-> It is a open source operating system made by Linus torvalds came under UNIX(uniplexed information computer system) 
+It has two types of families:-
+• Debian - it contains operating system like UBUNTU
+• RHEL - It contain operating system like centOS,oracle,fedora,red hat 
 
 3.**NETWORK**
 A network is a system that connects multiple devices, allowing them to communicate with each other and share resources.
