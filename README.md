@@ -65,3 +65,44 @@ There are two types of HYPERVISOR:-
 2. Type-2:- need of OS 
 
 # 8.GENERAL DATA PROTECTION REGULATION(GDPR)->
+It is a comprehensive data protection law implemented by the European Union (EU).
+ * **Key Objectives**
+   1.Data Protection
+   2.Enhanced Rights
+   3.Unified Regulation
+
+# 9.Field programmable gate array(FPGA) ->
+ it is a type of integrated circuit that can be programmed or reprogramed after manufacturing. For eg : high speed search, Microsoft uses FPGA in its data centre to run Bing search algorithm. 
+
+# 10.APPLICATION-SPECIFIC INTEGRATED CIRCUIT(ASIC)->
+ it is an integrated circuit that's custom designed for a particular task or application. 
+
+# 11.OSI MODEL(7 LAYERS)->
+The OSI (Open Systems Interconnection) model is a conceptual framework used to understand and design network communication systems. It has following layers:-
+**1. Physical Layer (Layer 1)**
+     *Function: Deals with the physical connection between devices. It involves the transmission and reception of raw binary data (0s and 1s) over a physical medium, such as cables or wireless signals.
+     *Examples: Ethernet cables, fiber optics, radio waves, network interface cards (NICs).
+
+**2. Data Link Layer (Layer 2)**
+     *Function: Provides node-to-node data transfer and handles error detection and correction from the Physical layer. It ensures that data packets are delivered to the correct device on a local network.
+     *Examples: Ethernet, Wi-Fi, MAC (Media Access Control) addresses, switches.
+
+**3.Network Layer (Layer 3)**
+     *Function: Manages data routing, forwarding, and addressing. It determines the best path for data to travel from the source to the destination across multiple networks.
+     *Examples: IP (Internet Protocol), routers, IP addresses.
+
+**4.Transport Layer (Layer 4)**
+     *Function: Ensures end-to-end communication and data integrity between devices. It manages data flow control, error correction, and retransmission.
+     *Examples: TCP (Transmission Control Protocol), UDP (User Datagram Protocol).
+
+**5.Session Layer (Layer 5)**
+     *Function: Manages sessions or connections between applications. It establishes, maintains, and terminates communication sessions.
+     *Examples: Session establishment protocols, APIs for session management.
+
+**6.Presentation Layer (Layer 6)**
+     *Function: Translates data between the application layer and the network. It is responsible for data translation, encryption, and compression.
+     *Examples: Data encryption (e.g., SSL/TLS), data translation formats (e.g., JPEG, GIF).
+
+**7.Application Layer (Layer 7)**
+     *Function: Provides network services directly to end-user applications. It facilitates user interface and application-level data exchanges.
+     *Examples: HTTP (Hypertext Transfer Protocol), FTP (File Transfer Protocol), SMTP (Simple Mail Transfer Protocol), email clients, web browsers.
