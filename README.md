@@ -44,3 +44,24 @@ A network is a system that connects multiple devices, allowing them to communica
 *   **WIDE AREA NETWORK(WAN)**->A network that covers a city or a large campus. MANs are often used by municipalities or large organizations to connect multiple buildings or sites within a city.
 
 *   **VIRTUAL PRIVATE NETWORK(VPN)**->A network that uses encryption and other techniques to provide secure access to a private network over a public network, like the Internet. VPNs are used to protect sensitive data and allow remote users to access resources securely.
+
+# 4.Cloud Computing->
+it is the delivery of computing services- including servers,storage,databases,network,software etc. For eg : Zoom,Google Docs
+
+# 5.IP Address->
+Its an address to identify a device on internet or on local internet.
+Types of IP address :- 
+1. Private 
+2. Public 
+3. Local
+
+# 6.DOMAIN NAME SERVER(DNS)->
+ it is a server responsible for keeping the file that contains information about the domain name and corresponding IP addresses as well as to provide information about the domain name and IP address during the DNS query.
+
+# 7.HYPERVISOR->
+ A program used to run and manage two or more virtual machine on a single physical machine. 
+There are two types of HYPERVISOR:- 
+1. Type-1:- no need of OS 
+2. Type-2:- need of OS 
+
+# 8.GENERAL DATA PROTECTION REGULATION(GDPR)->
