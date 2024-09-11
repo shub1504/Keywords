@@ -25,3 +25,17 @@ It's essentially the backbone of a computer system, enabling users to interact w
 * **KERNAL**->The term "kernel" refers to the core component of an operating system (OS) that manages system resources and enables communication between hardware and software.
 
 * **LINUX**->Linux is a widely-used open-source operating system kernel that serves as the foundation for many operating systems, commonly referred to as Linux distributions or distros.
+
+3.**NETWORK**
+A network is a system that connects multiple devices, allowing them to communicate with each other and share resources.
+
+**TYPES OF NETWORK**
+* **LOCAL AREA NETWORK(LAN)**-> A network that connects devices within a limited area, such as a home, office, or campus. LANs are typically used to share resources like printers and files and to facilitate communication between devices.
+
+*  **PERSONAL AREA NETWORK(PAN)**->A small-scale network, often used for connecting devices within a personal workspace or home. Bluetooth and Wi-Fi networks are examples of PANs.
+
+*   **METROPOLITIAN AREA NETWORK(MAN)**->A network that covers a city or a large campus. MANs are often used by municipalities or large organizations to connect multiple buildings or sites within a city.
+
+*   **WIDE AREA NETWORK(WAN)**->A network that covers a city or a large campus. MANs are often used by municipalities or large organizations to connect multiple buildings or sites within a city.
+
+*   **VIRTUAL PRIVATE NETWORK(VPN)**->A network that uses encryption and other techniques to provide secure access to a private network over a public network, like the Internet. VPNs are used to protect sensitive data and allow remote users to access resources securely.
