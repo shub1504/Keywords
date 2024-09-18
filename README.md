@@ -212,9 +212,8 @@ Microsoft Azure is a comprehensive cloud computing platform provided by Microsof
 # 25.ETHERNET
 Ethernet is a widely used technology for local area networks (LANs) that defines a set of standards for connecting devices to create a network. It operates at the data link layer (Layer 2) of the OSI model and is designed to facilitate communication within a network by managing data packets and addressing between devices.
 
-# 26.NETWORK INTERFACE CARD(NIC)
-Network Interface Card (NIC) is a hardware component that allows a computer or other device to connect to a network. It serves as the interface between the device and the network, facilitating communication by sending and receiving data packets over the network.
-
+# 26.NETWORK INTERFACE CONTROLLER(NIC)
+Network Interface Controller (NIC) is a hardware component that enables a device to connect to a network. It is sometimes referred to as a Network Interface Card (NIC), but "controller" emphasizes its role in managing network connections and communication.
 
 
   
