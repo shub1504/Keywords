@@ -209,6 +209,11 @@ Google Cloud Platform (GCP) is a suite of cloud computing services provided by G
 **3. AZURE**
 Microsoft Azure is a comprehensive cloud computing platform provided by Microsoft. It offers a wide array of cloud services, including computing, storage, databases, networking, artificial intelligence (AI), machine learning, and more. Azure allows businesses and developers to build, deploy, and manage applications and services through a global network of data centers.
 
+# 25.ETHERNET
+Ethernet is a widely used technology for local area networks (LANs) that defines a set of standards for connecting devices to create a network. It operates at the data link layer (Layer 2) of the OSI model and is designed to facilitate communication within a network by managing data packets and addressing between devices.
+
+# 26.NETWORK INTERFACE CARD(NIC)
+Network Interface Card (NIC) is a hardware component that allows a computer or other device to connect to a network. It serves as the interface between the device and the network, facilitating communication by sending and receiving data packets over the network.
 
 
 
