@@ -1,6 +1,6 @@
 # Keywords
 
-# 1.**COMPUTING**
+# 1.**COMPUTATION**
 * CPU(CENTRAL PROCESSING UNIT)->The CPU, or Central Processing Unit, is often referred to as the "brain" of a computer. used for interpretation, processes and executions.
 
 * GPU(GRAPHIC PROCESSING UNIT)->The GPU, or Graphics Processing Unit, is a specialized processor designed to accelerate the rendering of images and video  performs mathematical calculations at high speed.
@@ -147,6 +147,7 @@ Full-stack development refers to the practice of developing both the frontend (c
 
 
 **TECHNOLOGIES USED IN FRONTEND & BACKEND DEVELOPMENT**
+
 1.FRONTEND DEVELOPEMENT->
 * HTML
 * JavaScript
@@ -159,6 +160,56 @@ Full-stack development refers to the practice of developing both the frontend (c
 * Databases: MySQL,MongoDB,SQLite
 * Server Management: AWS,Google Cloud, Microsoft AZURE
 * Application Programming Interface(API): GraphQL API
+
+# 20.Application Programming Interface(API)
+An API is a set of rules and protocols that allows different software applications to communicate with each other. It defines the methods and data formats that applications can use to request and exchange information. APIs are crucial for integrating and extending the functionality of applications, enabling them to interact with other services, systems, or platforms.
+
+# 21.Programming Languages
+**1.PYTHON**
+Python is a high-level, interpreted programming language known for its readability, simplicity, and versatility. It is widely used in various domains, including web development, data analysis, artificial intelligence, scientific computing, automation, and more.Python is a versatile and user-friendly programming language that is widely used across various fields. Its simplicity, readability, and extensive libraries make it a popular choice for developers, data scientists, and researchers. Whether you are building web applications, analyzing data, or developing AI models, Python provides the tools and support needed to tackle a wide range of tasks.
+
+**2.Node.js**
+Node.js is an open-source, cross-platform runtime environment that allows you to execute JavaScript code server-side. It is built on the V8 JavaScript engine used by Google Chrome and provides an event-driven, non-blocking I/O (input/output) model, making it well-suited for building scalable network applications. Node.js is a powerful and flexible runtime environment that allows developers to use JavaScript for server-side programming. Its non-blocking, event-driven architecture makes it suitable for building high-performance, scalable applications, especially those requiring real-time interactions and handling numerous concurrent connections. With a robust ecosystem of libraries and frameworks, Node.js is widely used in modern web development for building various types of applications.
+
+**3.JAVA**
+Java is a high-level, class-based, object-oriented programming language that is designed to be portable, secure, and robust. It was developed by Sun Microsystems (now owned by Oracle Corporation) and first released in 1995. Java is known for its "write once, run anywhere" (WORA) capability, which means that code written in Java can run on any device that has a Java Virtual Machine (JVM) installed, regardless of the underlying hardware and operating system.Java is a versatile, powerful programming language known for its platform independence, object-oriented design, and robust features. It is widely used in various domains, including web development, enterprise applications, mobile development, and more. Java’s extensive libraries, portability, and strong community support make it a popular choice for developers around the world.
+
+**4.C#**
+C# (pronounced "C-sharp") is a modern, object-oriented programming language developed by Microsoft as part of its .NET framework. It was designed for building a wide range of applications, from web services to desktop applications, and is known for its strong type checking, versatility, and integration with the Microsoft ecosystem.
+
+**5.PHP**
+PHP (Hypertext Preprocessor) is a widely-used, open-source server-side scripting language primarily designed for web development. It is embedded into HTML and executed on the server, generating dynamic content for web pages.
+
+# 22.DATABASE MANAGEMENT SYSTUM(DBMS)
+A Database Management System (DBMS) is crucial software that manages the organization, storage, and retrieval of data. It provides a range of functionalities including data integrity, security, and concurrency control, and is essential for applications across various domains. Whether using relational or NoSQL databases, DBMSs are fundamental in managing and utilizing data effectively.
+
+**1.TYPES OF DBMS**
+* Relational DBMS(RDBMS):MySQL,PostgreSQL,Oracle Database,Microsoft SQL Server
+* NoSQL DBMS:MongoDB (Document-based),Cassandra (Column-family),Redis (Key-value),Neo4j (Graph)
+* Hierarchical DBMS:IBM Information Management System (IMS)
+* Network DBMS:IDMS (Integrated Database Management System)
+
+**2.Common Use Cases:**
+* Business Applications
+* Web Applications
+* Enterprise Resource Planning (ERP)
+* Customer Relationship Management (CRM)
+* Data Warehousing
+
+# 23.CLOUD COMPUTING
+Cloud computing refers to the delivery of computing services—such as servers, storage, databases, networking, software, and analytics—over the internet ("the cloud"). This model allows individuals and organizations to access and use these resources on a pay-as-you-go basis, without needing to own or manage physical hardware or infrastructure.
+
+# 24.SERVER MANAGEMENT
+**1. Amazon Web Services(AWS)**
+Amazon Web Services (AWS) is a comprehensive and widely adopted cloud computing platform provided by Amazon. AWS offers a range of cloud-based services and products, including computing power, storage, databases, machine learning, analytics, and more. These services enable businesses and developers to build and deploy applications and services with flexibility, scalability, and cost efficiency.
+
+**2. Google Cloud**
+Google Cloud Platform (GCP) is a suite of cloud computing services provided by Google. It offers a range of tools and services for computing, storage, data analysis, machine learning, networking, and more, enabling businesses and developers to build, deploy, and scale applications in the cloud.
+
+**3. AZURE**
+Microsoft Azure is a comprehensive cloud computing platform provided by Microsoft. It offers a wide array of cloud services, including computing, storage, databases, networking, artificial intelligence (AI), machine learning, and more. Azure allows businesses and developers to build, deploy, and manage applications and services through a global network of data centers.
+
+
 
 
   
