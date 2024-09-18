@@ -106,3 +106,19 @@ The OSI (Open Systems Interconnection) model is a conceptual framework used to u
 **7.Application Layer (Layer 7)**
      *Function: Provides network services directly to end-user applications. It facilitates user interface and application-level data exchanges.
      *Examples: HTTP (Hypertext Transfer Protocol), FTP (File Transfer Protocol), SMTP (Simple Mail Transfer Protocol), email clients, web browsers.
+
+**8.Hardware**
+Computer hardware refers to the physical components that make up a computer system. These components work together to perform various functions, enabling the computer to process, store, and output data. It includes CPU,RAM,STORAGE DEVICES etc.
+
+**9.Server**
+A server is a specialized computer or device that provides services, data, or resources to other computers over a network. The primary function of a server is to manage, store, send, and process data, allowing multiple users or devices to access it simultaneously. Servers are a key part of network architecture, playing a vital role in everything from websites to cloud computing.
+  # Types of Servers
+  * File Server
+  * Web Server
+  * Database Server
+  * Mail Server
+  * Application Server
+  * Proxy Server
+  * DNS Server
+  * Game Server
+  * 
